@@ -1,2 +1,2 @@
 # motorTestCpp
-motor test using c++/libtagplc/nidaqmx
+motor test using linux/c++/libtagplc/nidaqmx
